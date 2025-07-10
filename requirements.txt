@@ -3,3 +3,4 @@ numpy
 nltk
 flask
 flask_cors
+fuzzywuzzy
