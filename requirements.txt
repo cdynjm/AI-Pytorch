@@ -2,3 +2,4 @@ torch
 numpy
 nltk
 flask
+flask_cors
