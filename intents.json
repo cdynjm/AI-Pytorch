@@ -12,7 +12,12 @@
         "Good afternoon",
         "Good evening",
         "What's up",
-        "Yo"
+        "Yo",
+        "Hi there, how are you doing?",
+        "Hey there, good to see you!",
+        "Hello, I hope you're having a nice day!",
+        "Hey, what's going on today?",
+        "Good evening, I wanted to say hi."
       ],
       "responses": [
         "Hello!",
@@ -31,7 +36,11 @@
         "See you later",
         "Farewell",
         "Catch you later",
-        "Take care"
+        "Take care",
+        "Thanks for your help, bye!",
+        "Alright, goodbye for now.",
+        "Talk to you later, take care.",
+        "I have to go now, see you next time!"
       ],
       "responses": [
         "Bye!",
@@ -49,7 +58,11 @@
         "Much appreciated",
         "Thanks a lot",
         "Thanks so much",
-        "Thank you very much"
+        "Thank you very much",
+        "I appreciate your help a lot.",
+        "Thank you for assisting me today.",
+        "Thanks for being so helpful.",
+        "Thanks, that was exactly what I needed."
       ],
       "responses": [
         "You're welcome!",
@@ -67,7 +80,11 @@
         "Can you help me?",
         "Support",
         "Assist me",
-        "I have a problem"
+        "I have a problem",
+        "Can I get some help with this issue?",
+        "I’m having trouble with something.",
+        "Could you please assist me?",
+        "I really need some support right now."
       ],
       "responses": [
         "Sure, how can I assist you?",
@@ -82,7 +99,11 @@
         "When are you open?",
         "Opening hours",
         "Business hours",
-        "Working hours"
+        "Working hours",
+        "Could you tell me when you're open?",
+        "When can I visit your office?",
+        "What time do you open and close?",
+        "I’d like to know your business schedule."
       ],
       "responses": [
         "We are open Monday to Friday from 9am to 6pm.",
@@ -96,7 +117,11 @@
         "Location",
         "Address",
         "Where can I find you?",
-        "Office location"
+        "Office location",
+        "Can you tell me where your office is?",
+        "Where is your company based?",
+        "What’s your exact address?",
+        "I want to visit your office, where is it?"
       ],
       "responses": [
         "We are located at 123 Main Street, Cityville.",
@@ -109,7 +134,11 @@
         "What payment methods do you accept?",
         "Payments",
         "How can I pay?",
-        "Payment options"
+        "Payment options",
+        "Do you accept credit cards?",
+        "Can I pay via PayPal?",
+        "Is bank transfer available for payment?",
+        "What are my options to settle the bill?"
       ],
       "responses": [
         "We accept credit cards, PayPal, and bank transfers.",
@@ -123,7 +152,11 @@
         "Complaint",
         "I'm not happy",
         "Issue",
-        "Problem with service"
+        "Problem with service",
+        "I have a complaint about your service.",
+        "I’m dissatisfied with how things went.",
+        "There’s something wrong I’d like to report.",
+        "I need to file a complaint."
       ],
       "responses": [
         "I'm sorry to hear that. Please tell me more about the issue.",
@@ -137,7 +170,11 @@
         "Make me laugh",
         "Funny",
         "Joke please",
-        "Say something funny"
+        "Say something funny",
+        "Do you know any good jokes?",
+        "Can you make me laugh a bit?",
+        "Say something to cheer me up.",
+        "Got a joke for me?"
       ],
       "responses": [
         "Why don't scientists trust atoms? Because they make up everything!",
